@@ -4,4 +4,4 @@ nnoremap K L
 nnoremap H b
 nnoremap L w
 
-inoremap jk <Esc>
+inoremap jj <Esc>
